@@ -76,9 +76,10 @@ div{
 .slika p:last-child{
 font-size: 0.8em;
 background-color: #cc0000;
-margin-top: 0,1%;
+margin-top: -2em;
 }
 
+/* presledki */
 
 a::before {
   content: " ❤️";
